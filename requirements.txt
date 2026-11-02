@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+streamlit
+requests
+pydantic
+meilisearch
+apify-client
+python-dotenv
